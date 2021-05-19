@@ -32,7 +32,7 @@
     "@actions/io": "^1.0.2",
     "@actions/tool-cache": "^1.5.4",
     "semver": "^6.1.1",
-    "snyk": "^1.425.4"
+    "snyk": "^1.431.1"
   },
   "devDependencies": {
     "@types/jest": "^24.0.13",
